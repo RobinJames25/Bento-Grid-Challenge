@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Bento-Grid-Challenge/static/css/main.c4d75e12.css",
+    "main.js": "/Bento-Grid-Challenge/static/js/main.f41852c6.js",
+    "static/media/illustration-multiple-platforms.webp": "/Bento-Grid-Challenge/static/media/illustration-multiple-platforms.f6552bb44570eee14f76.webp",
+    "static/media/illustration-ai-content.webp": "/Bento-Grid-Challenge/static/media/illustration-ai-content.43adae35ee24162c7370.webp",
+    "static/media/illustration-schedule-posts.webp": "/Bento-Grid-Challenge/static/media/illustration-schedule-posts.49965dec2af4595e170f.webp",
+    "static/media/illustration-grow-followers.webp": "/Bento-Grid-Challenge/static/media/illustration-grow-followers.dd52b26d0534db7af28f.webp",
+    "static/media/illustration-audience-growth.webp": "/Bento-Grid-Challenge/static/media/illustration-audience-growth.3ca61aef2473aa80c54c.webp",
+    "static/media/illustration-consistent-schedule.webp": "/Bento-Grid-Challenge/static/media/illustration-consistent-schedule.43ef6ecf3e79859c2c54.webp",
+    "static/media/illustration-create-post.webp": "/Bento-Grid-Challenge/static/media/illustration-create-post.4430d836e9783fd3eaf3.webp",
+    "static/media/illustration-five-stars.webp": "/Bento-Grid-Challenge/static/media/illustration-five-stars.a9c251f585baa32bb30d.webp",
+    "index.html": "/Bento-Grid-Challenge/index.html",
+    "main.c4d75e12.css.map": "/Bento-Grid-Challenge/static/css/main.c4d75e12.css.map",
+    "main.f41852c6.js.map": "/Bento-Grid-Challenge/static/js/main.f41852c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4d75e12.css",
+    "static/js/main.f41852c6.js"
+  ]
+}
